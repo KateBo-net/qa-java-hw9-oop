@@ -128,7 +128,7 @@ public class RadioTest {
     }
 
     @Test
-    public void shouldIncreaseVolume(){
+    public void shouldIncreaseVolume() {
 
         Radio radio = new Radio();
 
@@ -140,7 +140,7 @@ public class RadioTest {
     }
 
     @Test
-    public void shouldNotIncreaseVolume(){
+    public void shouldNotIncreaseVolume() {
 
         Radio radio = new Radio();
 
@@ -153,7 +153,7 @@ public class RadioTest {
     }
 
     @Test
-    public void shouldTurnDownVolume(){
+    public void shouldTurnDownVolume() {
 
         Radio radio = new Radio();
 
@@ -166,7 +166,7 @@ public class RadioTest {
     }
 
     @Test
-    public void shouldNotTurnDownVolume(){
+    public void shouldNotTurnDownVolume() {
 
         Radio radio = new Radio();
 
